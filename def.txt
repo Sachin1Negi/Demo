@@ -1,6 +1,0 @@
-
-creating first text file inside dir file1
-
-Testing project
-
-Hi there, is is the last change?
