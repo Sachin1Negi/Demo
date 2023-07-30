@@ -1,0 +1,2 @@
+This is documentation for this project, please refer it to get an overview
+of what is going on in this project called : "website"
