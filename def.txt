@@ -1,0 +1,14 @@
+
+creating first text file inside dir file1
+
+Testing project
+
+Hi there, is is the last change?
+new change added
+
+After removing tracking of it
+It is in .gitignore now lets see it this is tracked or not.
+
+Using alias currently : we can replace bigger text with small symbols using alias.
+git config --global alias.unstage 'restore --staged --'
+git unstahge def.txt
